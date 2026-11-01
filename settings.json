@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dragonic67.aternos.me",
-    "port": 63474,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
